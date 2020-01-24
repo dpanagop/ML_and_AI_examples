@@ -1,1 +1,14 @@
-#Examples of Machine Learning and Artificial Inteligence in Python
+# Examples of Machine Learning and Artificial Inteligence in Python
+
+This repository contains examples of Machine learining and AI in Python jupyter notebooks. In most cases, a link at the top of the top notebook opens the notebook in [Google's Colab](https://colab.research.google.com/notebooks/intro.ipynb). In that way it easy for everyone to experiment with the code without  having to go through the pain of setting up a Python envoronment. If for some reason github fails to render the notebook (it has happens from time to time) you can use [nbviewer](https://nbviewer.jupyter.org/).  
+
+Below is a short description of the available notebooks.
+
+* **[Customer_segmentation](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Customer_segmentation.ipynb)** Example of customer segmentation. A demonstration of hierarchical clustering. 
+* **[Bank_marketing](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Bank_marketing.ipynb)** Example of classification in unbalanced datasets using logistic regression. SMOTE - Synthetic Minority Over-sampling Technique is used as an example of how to deal with the imbalance.
+* **[Fraud_detection](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Fraud_detection.ipynb)** Example of Fraud detection. Detection of fraudulent credit card transactions. This set is also (highly) unbalanced. Logistic regresion with SMOTE and decission trees are demonstrated.
+* **[Fraud_detection_ensembles](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Fraud_detection_ensembles.ipynb)** A continuation of Fraud_detection above. Random forests, xgboost and ensebles are used.
+* **[Simple neural network example](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Simple%20neural%20network%20example.ipynb)** A simple neural network with tensorflow. Nothing special other than introducing basic Python/Tensorflow syntax.
+* **[Example of image classification with neural network](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Example%20of%20image%20classification%20with%20neural%20network.ipynb)** Example of classification of images taken from Fashion MNIST using neural nets.
+* **[Image_Classification_with_and_without_convlolution](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Image_Classification_with_and_without_convlolution.ipynb)** Image classification of Fashion MNIST images with neural nets and convolutional layers. There is also the excel file [convolution_example.xlsx](https://github.com/dpanagop/ML_and_AI_examples/blob/master/convolution_example.xlsx) which you can use to play with the notion of convolutions.
+* **[Credit_Fraud_detection_with_autoencoders](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Credit_Fraud_detection_with_autoencoders.ipynb)** Here we revisit -Credit- Fraud Detection with the help of autoencoders, a special kind of neural networks. Two different methods are  
