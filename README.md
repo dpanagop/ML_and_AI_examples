@@ -16,6 +16,5 @@ Below is a short description of the available notebooks.
   2. using the autenconder for mapping data in a vector space and using the vector distance.
  * **[Style_transfer](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Style_transfer.ipynb)** demonstrates how one can use neural nets to transfer image style from one picture to an other. The nice thing with this one is that if you run it in Colab (better use Chrome as a browser), then you can transfer style to an image that you upload. It is Raymond Yuan's code. You can read his post in [medium](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398) for more info.
  * **[NLP_example_clustering](https://github.com/dpanagop/ML_and_AI_examples/blob/master/NLP_example_clustering.ipynb)** Text classification using term frequency/inverse term frequency (TF-IDF) and k-means. Text classified is articles downloaded from wikipedia. A wordcloud is created for each cluster. (Note: Is is best to view this one in nbviewer).
- * **[Spacy_example](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Spacy_example.ipynb)** Simple SpaCy example.
- * **[Greek_Spacy](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Greek_Spacy.ipynb)** Simple SpaCy example in Greek.
- 
+ * **[Spacy_example](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Spacy_example.ipynb)** Simple SpaCy example.  (Note: Is is best to view this one in nbviewer).
+ * **[Greek_Spacy](https://github.com/dpanagop/ML_and_AI_examples/blob/master/Greek_Spacy.ipynb)** Simple SpaCy example in Greek.  (Note: Is is best to view this one in nbviewer). 
