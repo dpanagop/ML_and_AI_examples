@@ -1,6 +1,6 @@
 # Examples of Machine Learning and Artificial Inteligence in Python
 
-This repository contains examples of Machine learining and AI in Python jupyter notebooks. In most cases, a link at the top of the top notebook opens the notebook in [Google's Colab](https://colab.research.google.com/notebooks/intro.ipynb). In that way it easy for everyone to experiment with the code without  having to go through the pain of setting up a Python envoronment. If for some reason github fails to render the notebook (it has happens from time to time) you can use [nbviewer](https://nbviewer.jupyter.org/).  
+This repository contains examples of Machine learining and AI in Python jupyter notebooks. In most cases, a link at the top of the top notebook opens the notebook in [Google's Colab](https://colab.research.google.com/notebooks/intro.ipynb). In that way it is easy for everyone to experiment with the code without  having to go through the pain of setting up a Python envoronment. If for some reason github fails to render the notebook (it has happens from time to time) you can use [nbviewer](https://nbviewer.jupyter.org/).  
 
 Below is a short description of the available notebooks.
 
